@@ -1,4 +1,4 @@
-enable : true
+enable : false
 gallery:
   - image : "images/gallery/1.jpg"
   - image : "images/gallery/2.jpg"
