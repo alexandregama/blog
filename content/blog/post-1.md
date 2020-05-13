@@ -13,11 +13,7 @@ description: "this is meta description"
 categories: 
   - "Android And Gmaing"
 tags:
-  - "Photos"
   - "Game"
-  - "React"
-  - "Python"
-  - "New"
 
 # post type
 type: "featured"
