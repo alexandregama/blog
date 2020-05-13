@@ -17,7 +17,6 @@ tags:
   - "Game"
   - "React"
   - "Python"
-  - "Elixir"
   - "New"
 
 # post type

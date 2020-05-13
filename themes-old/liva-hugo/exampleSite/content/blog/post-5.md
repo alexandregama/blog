@@ -4,24 +4,22 @@ date: 2019-10-29T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/featured-post/post-2.jpg"
+image: "images/post/post-2.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "HTML & CSS"
+  - "Go Language"
 tags:
   - "Photos"
-  - "Game"
-  - "React"
+  - "HTML"
   - "Python"
-  - "Elixir"
   - "New"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 # Heading 1
@@ -92,7 +90,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 * List item
 * List item
 * List item
-
 <hr>
 
 ##### Code and Syntax Highlighting
