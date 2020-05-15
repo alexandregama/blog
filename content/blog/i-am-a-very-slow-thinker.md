@@ -1,6 +1,6 @@
 ---
 title: "I'm a Very Slow Thinker"
-date: 2020-05-12T10:07:47+06:00
+date: 2020-05-15T10:07:47+06:00
 draft: false
 
 # post thumb
@@ -13,10 +13,10 @@ description: "I usually take a lot of time thinking about questions. In meetings
 categories: 
   - "Personal"
 tags:
-  - "Game"
+  - "Personal"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 I came across this post titled "I'm very slow thinker" by Derek Sivers and I really liked it. Not just because it's well written but because **it's a detailed description about me**
