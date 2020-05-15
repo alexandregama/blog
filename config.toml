@@ -73,7 +73,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/alex-gama-logo.png"
 home = "Home"
 # Meta data
 description = "Blog about coding courses, tutorials, technology and personal notes"
@@ -99,8 +99,8 @@ copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All 
 ############################ news letter ########################
 [params.newsletter]
 enable = true
-title = "Join Our Newsletter"
-content = "You'll receive coding courses, tutorials and personal posts! I'll be happy to send you all of them :)"
+title = "Join My Newsletter"
+content = "You'll receive coding courses, tutorials and personal posts! I'll be happy to send them to you :)"
 
 ############################# social site ########################
 [[params.social]]

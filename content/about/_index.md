@@ -13,7 +13,7 @@ description: "this is meta description"
 type : "about"
 ---
 
-Hey, nice to meet you! I'm currently one of the Co-Founders and CTO at @SouSmile, former Directoring of Engineering
+Hey, I'm Alex Gama, nice to meet you! I'm one of the Co-Founders and CTO at @SouSmile, former Director of Engineering
 at @Gympass and Group Leader at @Elo7 and honestly, still trying to figure out what those things really mean :)
 
 Here you'll find coding courses and tutorials but also some personal posts from a variety of topics like Leadership,
