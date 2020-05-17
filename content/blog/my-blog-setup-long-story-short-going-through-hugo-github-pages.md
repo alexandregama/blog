@@ -1,5 +1,5 @@
 ---
-title: "My Blog SetUp - Long Story Short going through Hugo and Github Pages"
+title: "My Blog Set Up - Long Story Short going through Hugo and Github Pages"
 date: 2020-05-16T19:07:47+06:00
 draft: false
 
@@ -7,7 +7,7 @@ draft: false
 image: "images/post/blog-setup/blog-setup-hugo-githubpages-godaddy.png"
 
 # meta description
-description: "I'm planning to document my journey in creating content, mostly related to Coding, Architecture, Frameworks but also related to Leadership, Startups, and Product Management."
+description: "How to set up a blog from scratch using Hugo as your Static Site Generator and GitHub Pages as your hosting. This is the first post of this series :)"
 
 # taxonomies
 categories: 
@@ -22,9 +22,9 @@ type: "post"
 
 Hey!
 
-As I've documented [here](https://www.alexgama.io/blog/documenting-instead-of-creating-starting-the-journey/) I'm documenting my journey in creating content, mostly related to Coding, Architecture, Frameworks but also related to Leadership, Startups, and Product Management.
+As I've documented [here](https://www.alexgama.io/blog/documenting-instead-of-creating-starting-the-journey/) **I'm documenting my journey in creating content**, mostly related to Coding, Architecture, Frameworks but also related to Leadership, Startups, and Product Management, which are topics that I really love and learning a lot.
 
-This will be a **short intro to my blog setup**. In the upcoming posts, I'll describe other options and the "whys" behind the scenes
+This will be a **short intro to my blog set up**. In the upcoming posts, I'll describe other options and the "whys" behind the scenes
 
 ### Static Site Generators (SSG) versus Content Management Systems (CMS)
 
@@ -39,13 +39,13 @@ I wanted:
 
 The requirements matched with **Static Site Generators**. Simple.
 
-Don't get me wrong, CMSs are amazing also. We can even work with cache, JavaScript, etc to have a faster website, but this is a story for another post
+Don't get me wrong again, CMSs are amazing also. We can even work with cache, JavaScript, etc to have a faster website, but this is a story for another post
 
 ### Hugo vs Jekyll vs Gatsby vs Next
 
 All of them are amazing! Really!
 
-I picked Hugo.
+I picked **Hugo.
 
 - Fast
 - Simple
@@ -81,7 +81,7 @@ Terribly short. I know. I just wanted to give you a taste of how my blog setup l
 Next posts I'll explore a few important points:
 
 - My personal comparison between Hugo and Jekyll
-- How to setup an entire blog from scratch using Hugo, GitHub Pages and Godaddy
+- How to set up an entire blog from scratch using Hugo, GitHub Pages and Godaddy
 - How to choose a specific Hugo Theme
 - How to write your first posts
 
