@@ -7,7 +7,7 @@ draft: false
 image: "images/featured-post/documenting-instead-of-creating-starting-the-journey.jpg"
 
 # meta description
-description: "this is meta description"
+description: "I don't know about you, but when it comes to personal stuff, I overthink everything."
 
 # taxonomies
 categories: 

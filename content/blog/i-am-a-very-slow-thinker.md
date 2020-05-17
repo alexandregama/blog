@@ -19,7 +19,7 @@ tags:
 type: "post"
 ---
 
-I came across this post titled "I'm very slow thinker" by Derek Sivers and I really liked it. Not just because it's well written but because **it's a detailed description about me**
+I came across this post titled "I'm very slow thinker" by Derek Sivers and I really liked it. Not just because it's well written but because **it's a detailed description of myself**
 
 **I usually take a lot of time** thinking about questions. In meetings, I usually take notes. Lots of them, even in my head. **I want to process them later**. 
 
@@ -29,7 +29,7 @@ Do you want to ask me a question in the middle of the meeting? "**I'm thinking a
 
 Being these answers and options right or wrong, I have them.
 
-That's an interesting scenario, since I still want to think about my own opinions. **The motivation? Challenging myself**. A temptation to avoid some kind of cognitive bias. Or simply, I'm too slow
+That's an interesting scenario since I still want to think about my own opinions. **The motivation? Challenging myself**. A temptation to avoid some kind of cognitive bias. Or simply, I'm too slow
 
 Probably my first reaction, answer, and motivation will be outdated. I really believe that.
 
