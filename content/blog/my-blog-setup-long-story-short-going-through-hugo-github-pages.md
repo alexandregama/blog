@@ -86,3 +86,9 @@ Next posts I'll explore a few important points:
 - How to write your first posts
 
 That's it for today! Thanks for stopping by :)
+
+Let's keep in touch 🙂
+
+[Twitter](https://twitter.com/_alex_gama/)
+[Youtube](https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw?view_as=subscriber/)
+[Linkedin](https://www.linkedin.com/in/alexandregama/)

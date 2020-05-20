@@ -83,3 +83,9 @@ I'm going to face a lot of problems, imperfections, issues, people laughing at m
 I'm going to capture this journey, the issues, the process I'm using to surround those issues and then, who knows, I'll look at this in 10 years and I'll be happy to just have started
 
 Stay tuned if you want to see where it goes :)
+
+Let's keep in touch 🙂
+
+[Twitter](https://twitter.com/_alex_gama/)
+[Youtube](https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw?view_as=subscriber/)
+[Linkedin](https://www.linkedin.com/in/alexandregama/)

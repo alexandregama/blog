@@ -48,3 +48,9 @@ Incomplete answers that can be improved over time. You can compound different pe
 Probably the brain side that knows it is different from the brain side that takes actions, that answers questions. Who knows.
 
 As Derek says, this probably makes me stupid. Different from him, I'm usually worried about it. The acceptance phase is still coming. I'm waiting. With a beer, on my balcony.
+
+Let's keep in touch 🙂
+
+[Twitter](https://twitter.com/_alex_gama/)
+[Youtube](https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw?view_as=subscriber/)
+[Linkedin](https://www.linkedin.com/in/alexandregama/)
