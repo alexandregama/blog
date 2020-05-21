@@ -11,7 +11,7 @@ description: "Are you immersed in the JavaScript world? Or are you just getting 
 
 # taxonomies
 categories: 
-  - "Podcast Review"
+  - "Frameworks"
 tags:
   - "GraphQL"
   - "Architecture"
