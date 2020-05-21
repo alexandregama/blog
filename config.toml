@@ -104,9 +104,9 @@ content = "You'll receive coding courses, tutorials and personal posts! I'll be 
 
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/alexandre.gama.lima"
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw"
 
 [[params.social]]
 title = "twitter"

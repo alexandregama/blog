@@ -11,11 +11,10 @@ description: "Are you immersed in the JavaScript world? Or are you just getting 
 
 # taxonomies
 categories: 
-  - "Javascript"
+  - "Podcast Review"
 tags:
-  - "React"
-  - "Redux"
-  - "JavaScript"
+  - "GraphQL"
+  - "Architecture"
 
 # post type
 type: "post"
@@ -81,4 +80,5 @@ Let's keep in touch 🙂
 
 [Twitter](https://twitter.com/_alex_gama/)
 [Youtube](https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw?view_as=subscriber/)
+[Instagram](https://www.instagram.com/_alex_gama)
 [Linkedin](https://www.linkedin.com/in/alexandregama/)
