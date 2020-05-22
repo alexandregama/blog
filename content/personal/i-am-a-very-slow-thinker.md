@@ -12,8 +12,8 @@ description: "I usually take a lot of time thinking about questions. In meetings
 aliases:
   - /personal/i-am-a-very-slow-thinker/
   - /blog/i-am-a-very-slow-thinker/
+  - /i-am-a-very-slow-thinker/
 
-# taxonomies
 categories: 
   - "Personal"
 tags:
