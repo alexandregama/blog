@@ -9,6 +9,10 @@ image: "images/featured-post/i-am-a-very-slow-thinker.jpg"
 # meta description
 description: "I usually take a lot of time thinking about questions. In meetings, I usually take notes. Lots of them, even in my head. I want to process them later. "
 
+aliases:
+  - /personal/i-am-a-very-slow-thinker/
+  - /blog/i-am-a-very-slow-thinker/
+
 # taxonomies
 categories: 
   - "Personal"

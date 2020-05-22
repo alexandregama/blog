@@ -9,6 +9,10 @@ image: "images/post/blog-setup/blog-setup-hugo-githubpages-godaddy.png"
 # meta description
 description: "How to set up a blog from scratch using Hugo as your Static Site Generator and GitHub Pages as your hosting. This is the first post of this series :)"
 
+aliases:
+  - /frontend/my-blog-setup-long-story-short-going-through-hugo-github-pages/
+  - /blog/my-blog-setup-long-story-short-going-through-hugo-github-pages/
+
 # taxonomies
 categories: 
   - "Architecture"

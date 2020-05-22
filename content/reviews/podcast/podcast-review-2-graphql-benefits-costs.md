@@ -9,6 +9,10 @@ image: "images/post/graphql-benefits-costs/podcast-review-post-graphql-benefits-
 # meta description
 description: "Podcast Review #2 - GraphQL's Benefits and Costs - These are my notes from this podcast"
 
+aliases:
+  - /reviews/podcast/podcast-review-2-graphql-benefits-costs
+  - /blog/podcast-review-2-graphql-benefits-costs/
+
 # taxonomies
 categories: 
   - "Podcast Review"
@@ -27,9 +31,9 @@ Running out of time today 😅
 
 My notes:
 
-![image](../../images/post/graphql-benefits-costs/podcast-review-2-graphql-benefits-costs-1-post.jpg)
+![image](../../../images/post/graphql-benefits-costs/podcast-review-2-graphql-benefits-costs-1-post.jpg)
 
-![image](../../images/post/graphql-benefits-costs/podcast-review-2-graphql-benefits-costs-2-posts.jpg)
+![image](../../../images/post/graphql-benefits-costs/podcast-review-2-graphql-benefits-costs-2-posts.jpg)
 
 Hope to spend some time tomorrow exploring more concepts and updating this post.
 

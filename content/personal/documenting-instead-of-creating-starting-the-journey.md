@@ -9,6 +9,10 @@ image: "images/featured-post/documenting-instead-of-creating-starting-the-journe
 # meta description
 description: "I don't know about you, but when it comes to personal stuff, I overthink everything."
 
+aliases:
+  - /personal/documenting-instead-of-creating-starting-the-journey/
+  - /blog/documenting-instead-of-creating-starting-the-journey/
+
 # taxonomies
 categories: 
   - "Personal"

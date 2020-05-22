@@ -9,6 +9,10 @@ image: "images/post/how-to-create-content-daily/how-to-create-content-daily-1-al
 # meta description
 description: "I usually take some terrible handwritten notes when I'm reading a book and lately I've been following the same approach while listening podcasts"
 
+aliases:
+  - /reviews/podcast/podcast-review-1-how-to-create-content-daily/
+  - /blog/podcast-review-1-how-to-create-content-daily/
+
 # taxonomies
 categories: 
   - "Podcast Review"

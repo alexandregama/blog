@@ -9,6 +9,10 @@ image: "images/post/react-redux-recoil-state-management/react-redux-recoil-state
 # meta description
 description: "Are you immersed in the JavaScript world? Or are you just getting started? In both contexts probably you have heard about React. Old like me? Probably React.js"
 
+aliases:
+  - /javascript/planning-to-manage-state-with-react-welcome-recoil/
+  - /blog/planning-to-manage-state-with-react-welcome-recoil/
+
 # taxonomies
 categories: 
   - "Frameworks"

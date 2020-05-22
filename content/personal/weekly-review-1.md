@@ -9,6 +9,10 @@ image: "images/post/weekly-review-alex-gama.jpg"
 # meta description
 description: "This is my first Weekly Review and I'm planning to do this just to force me thinking about the lessons learned and new discoveries."
 
+aliases:
+  - /personal/weekly-review-1/
+  - /blog/weekly-review-1/
+
 # taxonomies
 categories: 
   - "Personal"
