@@ -1,167 +1,206 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Postgres for Beginners Part 1 - I'm PostgreSQL, nice to meet you!"
+date: 2019-05-21T20:00:47+06:00
 draft: true
 
 # post thumb
-image: "images/post/post-5.jpg"
+image: "images/post/postgres-test-5.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "Database"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "PostgreSQL"
+  - "Relational Database"
+  - "Beginners Tutorial"
 
 # post type
 type: "post"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+Hey friend!
 
-<hr>
+This will be (hopefully) an amazing journey. Be ready! 6 days of PostgreSQL Database for folks who are just getting started.
 
-##### Emphasis
+I'm a spoiler person, I can't hold secrets with me. Let's explore PostgreSQL from the ground up through the parts below.
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+- Part 1 - Let's meet PostgreSQL. Theory is here. What it is. Who is using it. Where we can use it
+- Part 2 - It's time to play around. It's time to get our environment ready 🚀
+- Part 3 - Creating Tables, Storing Data and Altering Structure are beautiful and easy things to do.
+- Part 4 - How to Filter Data using the famous SELECT statement
+- Part 5 - It's time to Join Tables. Data usually like each other and has a great relationship
+- Part 6 - Let's face real life: Operations and Functions in your Postgres tool belt
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+## 1 - I'm PostgreSQL, nice to meet you :)
 
-Combined emphasis with **asterisks and _underscores_**.
+PostgreSQL is really easygoing. For now on, I'll call it just Postgres. 
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+What is Postgres in a picture:
 
-<hr>
+![image](../../images/post/postgres-test-8.jpg)
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+Going a little bit further
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+**Postgres is a** **Relational Database**
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+- Postgres is a powerful **object-relational database** with more than **30 years** of development
+- it's called relational database because it follows a certain structure, which has a collection of Tables and each table has Columns and Rows that we use to store data. More on that in a bit
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+**Postgres is Open Source**
 
-[You can use numbers for reference-style link definitions][1]
+- It is a free and open source project and has a strong and loving community. Did I say it's **free**?
+- You can easily extend and modify the codebase. You can even create **other databases** on top of Postgres. Crazy?
 
-Or leave it empty and use the [link text itself].
+**Postgres is Cross Platform**
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+- Postgres is cross platform, which means that you can use many different programming languages. Amazing!
+- You can also install it in many different platform flavors. Mac, Windows, Linux, BSD and Solaris are more than welcome :)
 
-Some text to show that the reference links can follow later.
+**Postgres has a remarkable Performance and Scalability!**
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+- By default, Postgres tries to guess the best performance on average hardware and application
+- You can easily scale up your Postgres database when needed.
+- When it comes to searching data, Postgres provides us a set of Algorithms that can boost searching operations
+- If you want to get to the next level, you can even run your things in parallel
+- Many Cloud companies allow you to easily add more servers to your Postgres application
+- More on this in my upcoming Postgres Performance course
 
-<hr>
+**Postgres is really...really...Reliable!**
 
-##### Paragraph
+- You can trust in Postgres. It won't let you down. Postgres never crashes. Ok, almost never crashes
+- If you suffer a power loss, Postgres will keep the data that you previously executed in a safe place for you s2
+- More on this in my upcoming Postgres Performance course
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+**Postgres is EASY to use**
 
-<hr>
+- I'm not a smart guy, however, even I can use it!
 
-##### List
+Postgres statistics stolen from Postgres Documentation
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51cc80cb-6e83-4124-9f9a-f5d40e047555/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51cc80cb-6e83-4124-9f9a-f5d40e047555/Untitled.png)
 
-##### Unordered List
+## 2 - Where is PostgreSQL used?
 
-* List item
-* List item
-* List item
-* List item
-* List item
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e803e0e-c846-40ea-9695-7615bace29b4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e803e0e-c846-40ea-9695-7615bace29b4/Untitled.png)
 
-<hr>
+**Web and Mobile development**
 
-##### Code and Syntax Highlighting
+- Postgres provides us great drivers for many programming languages, which allows us to connect with the database using Java, Ruby, Python, Haskell "your favorite language here"
+- Probably this is the default mode of Postgres usage
 
-Inline `code` has `back-ticks around` it.
+**Extensions**
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+Postgres provides a great set of APIs that we can extend and create plugins or even a new database
 
-<hr>
+- PostGIS, which is an extension to Postgres that allows us to work with Spatial and Geographic Data
+- PipelineDB for time-series aggregation, which is a way to analyze data over time. It's a database on top of Postgres. Amazing!
+- TimeScaleDB for scalable SQL queries for time-series data. It's also a database on top of Postgres!
 
-##### Blockquote
+**Data Science**
 
-> This is a blockquote example.
+- Postgres supports a huge amount of data and supports JSON-B for documents and PostGIS for Geolocation, which are topics we will explore later
+- Data Analysis through simple and complex queries
+- Data Warehousing, which is a place where we store data from multiple sources for data analysis
+- Data Mining, which is a technique that allows us to have useful information from data
 
-<hr>
+**NoSQL**
 
-##### Inline HTML
+- Postgres NoSQL is the powerful combination of unstructured and relational database technologies in a single database
 
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
+## 3 - Who is using PostgreSQL?
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+- A few small and unknown companies around the globe :smirk
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71f5d0c2-3f31-4ce1-b8cb-5d29a6976342/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71f5d0c2-3f31-4ce1-b8cb-5d29a6976342/Untitled.png)
 
+## 4 - Database Structure
 
-<hr>
+Let's revisit what is a relational database:
 
-##### Tables
+**in a nutshell**
 
-Colons can be used to align columns.
+- a structured way to store and retrieve your data
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+**Some background History (I love History!)**
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+*Edgar F. Codd* described in 1969 a really special relational model where:
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+- data is **represented** following a certain structure, which was called **Tuples**, a fancy name. Good name for us: **Rows**
+- data is **grouped** following a certain structure, which was called R**elations,** another fancy name. Good name for us: **Tables**
+- data is **identified** by following a certain structure, which was called **Fields**, ok not that fancy. Good name for us: **Columns**
 
-<hr>
+Databases that follow the structures above are called **Relational Databases**
 
-##### Image
+Why do we need this relational model? Well:
 
-![image](../../images/post/post-1.jpg)
+- it provides a good way to store data and retrieve that data later
 
-<hr>
+**Thinking about a real example, isn't it?**
 
-##### Youtube video
+Let's say that we're building an application to allow **students** to enroll to **courses**
 
-{{< youtube C0DPdy98e4c >}}
+To store students, we will create a **Table** called **Students**
+
+To store courses, we will create a **Table** called **Courses**
+
+- drawing here
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ca66a79-96a7-49bb-a0b5-dd91876a9c55/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ca66a79-96a7-49bb-a0b5-dd91876a9c55/Untitled.png)
+
+How can we relate Students to specific Courses? I'll let you with some suspense today. Wait for upcoming posts.
+
+## 5 - How do I manipulate data? SQL Language comes to scene
+
+We manipulate data through a Language that Structures Queries, which are questions or afirmations we want to make
+
+In a different order, we have a **S**tructured **Q**uery **L**anguage, which is a **declarative** way to ask for data
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c05bfda2-2b35-4495-89d7-d98af7de1d94/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c05bfda2-2b35-4495-89d7-d98af7de1d94/Untitled.png)
+
+## 6 - Is there more Languages? Yes! SQL Sub Languages
+
+SQL is broken down into some Sub Languages that allows us to be a little bit more specific on what we want. I'll show you the 4 most important (IHMO)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/710c38e2-a538-44b6-bda8-55bec31955f7/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/710c38e2-a538-44b6-bda8-55bec31955f7/Untitled.png)
+
+Boring text just to Google find it better ¬¬
+
+**DDL - Data Definition Language**
+
+- Related to database structure
+- Used to create, alter or delete objects like Tables, Indexes, and Sequences
+
+**DML -** **Data Manipulation Language**
+
+- Related to data manipulation
+- Used to select, insert, update and delete data
+- Disclaimer: I'm using **Select** here but many people like to use its own sub language - DQL - Data Query Language
+
+**DTL - Data Transaction Language**
+
+- Related to data saved into database...forever :)
+- Used to insert, update and remove data permanently. We'll dive into details in an upcoming post, don't worry
+
+**DCL - Data Control Language**
+
+- Related to user privileges on accessing data
+- Used to give or remove user access
+
+That's it for today
+
+I know, lots of concepts and information and zero coding. Don't be mad at me. 
+
+One of the most important things in being a **developer/software engineer/geek/you name it** is the ability to truly
+
+understand theory and concepts.
+
+I might confess: I usually like to start coding before going through concepts and I explain concepts **while I'm coding** but for some reason I don't like to do it when it comes to Databases. Probably some internal mental block
+
+Would be great to have your feedback so I can improve things on the upcoming articles
+
+Hope you have learned 1 thing or 2.
+
+Thanks for the visit, I really appreciate :)

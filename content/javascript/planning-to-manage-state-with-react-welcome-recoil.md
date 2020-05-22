@@ -26,7 +26,7 @@ This will be really short, I promise. This is the discovery of the day and I wan
 
 Are you immersed in the JavaScript world? Or are you just getting started? 
 
-![image](../../images/post/react-redux-recoil-state-management/javascript-study.png)
+![image](../../../images/post/react-redux-recoil-state-management/javascript-study.png)
 
 In both contexts probably you have heard about **React.** Old like me? Probably **React.js**
 

@@ -46,9 +46,9 @@ Let's start with the first episode in this series, which is from an amazing Podc
 
 If you want to go to sleep, [just take 2 notes](https://twitter.com/_alex_gama/status/1262911239660978178):
 
-![image](../../images/post/how-to-create-content-daily/how-to-create-content-daily-1.jpg)
+![image](../../../../images/post/how-to-create-content-daily/how-to-create-content-daily-1.jpg)
 
-![image](../../images/post/how-to-create-content-daily/how-to-create-content-daily-2.jpg)
+![image](../../../../images/post/how-to-create-content-daily/how-to-create-content-daily-2.jpg)
 
 If you have more time (or the same amount of time but a great level of curiosity)
 

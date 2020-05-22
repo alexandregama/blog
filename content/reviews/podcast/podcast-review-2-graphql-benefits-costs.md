@@ -1,5 +1,5 @@
 ---
-title: "Podcast Review #2: How to create content daily"
+title: "Podcast Review #2: GraphQL's Benefits and Costs"
 date: 2020-05-20T22:07:47+06:00
 draft: false
 

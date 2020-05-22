@@ -58,11 +58,11 @@ And you find yourself stuck with a list of things that you can't even see how to
 
 And when you start looking for some answers about overthinking, a few interesting answers come up
 
-![image](../../images/post/documenting-instead-of-creating/is-overthinking-a-mental-disorder.png)
+![image](../../../images/post/documenting-instead-of-creating/is-overthinking-a-mental-disorder.png)
 
 And then
 
-![image](../../images/post/documenting-instead-of-creating/can-overthinking-kill-you.png)
+![image](../../../images/post/documenting-instead-of-creating/can-overthinking-kill-you.png)
 
 Ok Google, that's enough for today
 
