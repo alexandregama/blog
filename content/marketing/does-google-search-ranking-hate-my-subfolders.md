@@ -4,14 +4,14 @@ date: 2020-05-22T18:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/post/marketing/does-google-search-rankings-hate-my-subfolders.jpg"
+image: "images/post/marketing/does-google-search-ranking-hate-my-subfolders.jpg"
 
 # meta description
 description: "Does Google Search Ranking Hate My Subfolders? No :)"
 
 aliases:
-  - /marketing/does-google-search-rankings-hate-my-subfolders/
-  - /does-google-search-rankings-hate-my-subfolders/
+  - /marketing/does-google-search-ranking-hate-my-subfolders/
+  - /does-google-search-ranking-hate-my-subfolders/
 
 # taxonomies
 categories: 
