@@ -100,7 +100,7 @@ copyright = "| copyright &copy; 2020 [Themefisher](https://themefisher.com) All 
 [params.newsletter]
 enable = true
 title = "Join My Newsletter"
-content = "You'll receive coding courses, tutorials and personal posts! I'll be happy to send them to you :)"
+content = "You'll receive coding courses, tutorials and personal posts! I'll be happy to send them to you, weekly :)"
 
 ############################# social site ########################
 [[params.social]]
@@ -127,3 +127,17 @@ link = "https://github.com/alexandregama"
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/alexandregama/"
+
+############################ code highlight ########################
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4

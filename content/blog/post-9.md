@@ -106,6 +106,27 @@ alert(s);
 s = "Python syntax highlighting"
 print s
 ```
+
+```java
+public class Checkout {
+  public static void main() {
+    System.out.println("My test");
+  }
+}
+```
+
+```go
+func GetTitleFunc(style string) func(s string) string {
+  switch strings.ToLower(style) {
+  case "go":
+    return strings.Title
+  case "chicago":
+    return transform.NewTitleConverter(transform.ChicagoStyle)
+  default:
+    return transform.NewTitleConverter(transform.APStyle)
+  }
+}
+```
  
 ```
 No language indicated, so no syntax highlighting. 
