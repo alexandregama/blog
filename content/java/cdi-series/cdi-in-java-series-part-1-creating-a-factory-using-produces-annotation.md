@@ -25,11 +25,11 @@ Hey friend!
 This is the **Part 1** of the [CDI Series in Java](https://www.alexgama.io/tags/cdi-series/) that contains:
 
 - Part 1: Factory in CDI with the @Produces annotation
-- [Part 2](https://www.alexgama.io/cdi-in-java-series-part-2-qualifiers): CDI Qualifiers
-- [Part 3](https://www.alexgama.io/cdi-in-java-series-part-3-events-and-observers): Events and Observers in CDI
-- [Part 4](https://www.alexgama.io/cdi-in-java-series-part-4-lazy-initialization): CDI and Lazy Initialization
-- [Part 5](https://www.alexgama.io/cdi-in-java-series-part-5-interceptors): Interceptors in CDI
-- [Part 6](https://www.alexgama.io/cdi-in-java-series-part-6-dependency-injection-alternatives): CDI Dependency Injection and Alternatives
+- [Part 2](https://www.alexgama.io/java/cdi-series/cdi-in-java-series-part-2-qualifiers): CDI Qualifiers
+- [Part 3](https://www.alexgama.io/java/cdi-series/cdi-in-java-series-part-3-events-and-observers): Events and Observers in CDI
+- [Part 4](https://www.alexgama.io/java/cdi-series/cdi-in-java-series-part-4-lazy-initialization): CDI and Lazy Initialization
+- [Part 5](https://www.alexgama.io/java/cdi-series/cdi-in-java-series-part-5-interceptors): Interceptors in CDI
+- [Part 6](https://www.alexgama.io/java/cdi-series/cdi-in-java-series-part-6-dependency-injection-alternatives): CDI Dependency Injection and Alternatives
 - [Part 7](https://www.alexgama.io/cdi-in-java-series-part-7-decorators): Working with CDI Decorators
 
 In this post, we're going to take a look at the amazing `@Produces` annotation, which is probably one of the most important and used annotations in the CDI world in Java!
