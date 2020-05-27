@@ -1,5 +1,5 @@
 ---
-title: "CDI in Java - Part 3 - Dependency Injection and Alternatives"
+title: "CDI in Java - Part 6 - Dependency Injection and Alternatives"
 date: 2020-05-27T20:00:47+06:00
 draft: false
 
