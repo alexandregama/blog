@@ -46,7 +46,7 @@ It's time to contextualize our challenge! We'd like to create the following step
 
 - Create a **Checkout** class to... you know... buy something
 - **Log** the operations on the console.
-- Create a **Logger** class to keep this log on its own class. The famous cohesion.
+- Create a **Logger** class to keep this log in its own class. The famous cohesion.
 - Customize this **Logger** to receive a **Configuration,** which indicates which **Log Mode** should be used
 
 Pretty simple, isn't it? Let's jump crazily into code!
