@@ -1,6 +1,6 @@
 ---
 title: "CDI in Java - Part 2 - Polymorphism with CDI Qualifiers"
-date: 2020-05-27T20:00:47+06:00
+date: 2020-05-28T20:00:47+06:00
 draft: false
 
 # post thumb
