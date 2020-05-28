@@ -49,9 +49,9 @@ It's time to contextualize our challenge! We'd like to create the following step
 - Create a **Logger** class to keep this log on its own class. The famous cohesion.
 - Customize this **Logger** to receive a **Configuration,** which indicates which **Log Mode** should be used
 
-Pretty simple, isn't? Let's jump crazily into code!
+Pretty simple, isn't it? Let's jump crazily into code!
 
-### #1: Creating the Main Class in CDI 2.0
+### #1: Creating the Main class in CDI 2.0
 
 Before creating the main class to execute our CDI code, let's create the important Checkout class:
 
@@ -88,7 +88,7 @@ public class MainApplication {
 }
 ```
 
-Pretty easy, isn't? Notice the following code:
+Pretty easy, isn't it? Notice the following code:
 
 ```java
 Checkout checkout = container.select(Checkout.class).get();
@@ -114,7 +114,7 @@ Great! Everything is up and running!
 
 ### #2: Creating a Specialized Class for Logger
 
-Logging is something important for us. To have a good cohesion, let's create a class that is responsible for logging messages. 
+Logging is something important for us. To have good cohesion, let's create a class that is responsible for logging messages. 
 
 This class will be called **SpecialLogger**, as you can see below:
 
@@ -217,7 +217,7 @@ Unsatisfied dependencies for type SpecialLogger with qualifiers @Default
  private com.hackingcode.cdi.produces.Checkout.logger
 ```
 
-Yes, an exception will be thrown on our face. And that makes sense. CDI does not know how to inject the **SpecialLogger** object yet.
+Yes, an exception will be thrown on our faces. And that makes sense. CDI does not know how to inject the **SpecialLogger** object yet.
 
 CDI, behind the scenes, will execute the following steps:
 
@@ -269,7 +269,7 @@ Of course, the returned object of the method **createLogger()** must be the sa
 
 That's it! I really hope that this article could be helpful to you!
 
-In the [next part](https://www.alexgama.io/cdi-in-java-series-part-2-qualifiers) we're going to be hacking some code with [CDI and Qualifiers](https://www.alexgama.io/cdi-in-java-series-part-2-qualifiers)
+In the [next part,](https://www.alexgama.io/cdi-in-java-series-part-2-qualifiers) we're going to be hacking some code with [CDI and Qualifiers](https://www.alexgama.io/cdi-in-java-series-part-2-qualifiers)
 
 See you on [Twitter](https://twitter.com/_alex_gama/) for more updates :)
 
