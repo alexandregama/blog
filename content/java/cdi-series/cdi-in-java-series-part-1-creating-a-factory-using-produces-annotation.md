@@ -22,7 +22,7 @@ type: "post"
 
 Hey friend!
 
-This is the **Part 1** of the [CDI Series in Java](https://www.alexgama.io/tags/cdi-series/) that contains:
+This is **Part 1** of the [CDI Series in Java](https://www.alexgama.io/tags/cdi-series/) that contains:
 
 - Part 1: Factory in CDI with the @Produces annotation
 - [Part 2](https://www.alexgama.io/java/cdi-series/cdi-in-java-series-part-2-qualifiers): CDI Qualifiers
