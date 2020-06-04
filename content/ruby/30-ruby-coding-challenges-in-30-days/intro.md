@@ -7,7 +7,7 @@ draft: false
 image: "images/post/ruby/ruby-series/30-coding-challenges-in-30-days.png"
 
 # meta description
-description: "We're going to have some fun by solving 30 Coding Challenges using Ruby for folks who are just getting started and folks who just want to have fun in preparing themselves for coding interviews"
+description: "We're going to have some fun by solving 30 Ruby Coding Challenges in 30 Days for folks who are just getting started and folks who just want to have fun in preparing themselves for coding interviews"
 
 # taxonomies
 categories: 
@@ -59,7 +59,7 @@ First of all, I wouldn't say that this is a course but I would say that we have 
 - If you're watching or reading this later, you can do that in 1 day of course :)
 - Just to organize: Integers, Strings, Arrays, and Hash Problems and Algorithms
 
-Hopefully you'll feel comfortable in solving problems like the famous Factorial and Fibonacci and not so famous Amicable Algorithm
+Hopefully, you'll feel comfortable in solving problems like the famous Factorial and Fibonacci and not so famous Amicable Algorithm
 
 Don't worry about the names, all the solutions will be simple
 
@@ -73,6 +73,8 @@ Don't worry about the names, all the solutions will be simple
 **The most important goal**: It's all about **having fun** 🕺💃 while solving simple but great coding challenges.
 
 {{< youtube pfaecP3Wbjw >}}
+
+I'll write a new article here every single day for the next 30 days in case you're a more reading person 
 
 I hope you enjoy the journey as much as I will and see you soon :)
 
