@@ -167,6 +167,8 @@ This is a more declarative approach than an imperative one, but this is a discus
 
 Well done, Ruby! **💪**
 
+{{< youtube 1o95D7as27Q >}}
+
 That's it. Thanks for your visit, really appreciate your time and see you soon :) 
 
 Let's keep in touch and don't forget to signup for my weekly newsletter
