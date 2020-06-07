@@ -177,14 +177,3 @@ Let's keep in touch and don't forget to signup for my weekly newsletter
 [Youtube](https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw?view_as=subscriber/)
 [Instagram](https://www.instagram.com/_alex_gama)
 [Linkedin](https://www.linkedin.com/in/alexandregama/)
-
-
-
-Opa Roberto, tudo bem?
-
-Resolvi ajudar a comunidade através de Posts e Vídeos e como vc trabalha como Developer de repente pode ser útil pra vc ou para aquele amigão/amigona que quer começa 😄
-
-Vai rolar Java, Python, Go, Ruby, JavaScript, TypeScript, Arquitetura e todos os amiguinhos 😅
-
-Qualquer feedback vai ser ótimo =D
-https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw
