@@ -7,7 +7,7 @@ draft: false
 image: "images/post/ruby/ruby-series/30-Ruby-Coding-Challenges-Thumbnail.png"
 
 # meta description
-description: "We're going to have some fun by solving 30 Ruby Coding Challenges in 30 Days for folks who are just getting started and folks who just want to have fun in preparing themselves for coding interviews"
+description: "This is the first part of this series of 30 Coding Challenges in Ruby for folks who are just getting started. Let's explore a simple challenge with Arrays"
 
 # taxonomies
 categories: 
@@ -47,7 +47,7 @@ I know, I know what you're thinking but this is just to start our journey togeth
 I'm going to break this down into **4 steps**:
 
 - Logic to solve the problem
-- Solving with classic for loops
+- Solving with a classic for loops
 - Organizing our code with methods
 - Bonus: Meeting Blocks in Ruby
 
@@ -82,7 +82,7 @@ puts count  # prints out the count value, which is 4. Nice
 
 ## #3 Organizing with a Method
 
-Nothing special here. Just organizing the kitcken with a method.
+Nothing special here. Just organizing the kitchen with a method.
 
 Notice that we're taking a **number** as an argument, which will be the number used to compare the items in the array
 
@@ -139,7 +139,7 @@ count = how_many_are_greater_than_rubyish(5, array)
 puts count
 ```
 
-But wait. Where is the **count** variable and **how we return it**? Brillant question.
+But wait. Where is the **count** variable and **how we return it**? Brilliant question.
 
 Ruby **automatically** increments an **internal variable** each time the expression **item > number** is evaluated to **true** and keeps the result in this
 
@@ -177,3 +177,14 @@ Let's keep in touch and don't forget to signup for my weekly newsletter
 [Youtube](https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw?view_as=subscriber/)
 [Instagram](https://www.instagram.com/_alex_gama)
 [Linkedin](https://www.linkedin.com/in/alexandregama/)
+
+
+
+Opa Roberto, tudo bem?
+
+Resolvi ajudar a comunidade através de Posts e Vídeos e como vc trabalha como Developer de repente pode ser útil pra vc ou para aquele amigão/amigona que quer começa 😄
+
+Vai rolar Java, Python, Go, Ruby, JavaScript, TypeScript, Arquitetura e todos os amiguinhos 😅
+
+Qualquer feedback vai ser ótimo =D
+https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw
