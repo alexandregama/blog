@@ -22,7 +22,9 @@ type: "post"
 
 Hey!
 
-Day 2 of 30 - Ruby Coding Challenges in 30 Days. This is the post version of the [Youtube video](https://www.youtube.com/watch?v=WT6aoeOsEwY)
+Day 2 of 30 - Ruby Coding Challenges in 30 Days 🥳. 
+
+This is the post version of the [Youtube video](https://www.youtube.com/watch?v=WT6aoeOsEwY)
 
 Continuing to stretch our arms and legs to the long run, I'm going to solve a simple and common algorithm:
 
