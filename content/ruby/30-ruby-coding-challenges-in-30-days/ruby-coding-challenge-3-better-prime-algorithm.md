@@ -24,7 +24,7 @@ Hey!
 
 Day 3 of 30: Ruby Coding Challenge number 3.
 
-This is the post version of[] this video on Youtube]()
+This is the post version of[] this video on Youtube](https://www.youtube.com/watch?v=Y3W64fXmfkw)
 
 [In the previous video](https://www.youtube.com/watch?v=WT6aoeOsEwY) we solved a really common challenge:
 
