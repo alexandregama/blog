@@ -204,3 +204,48 @@ Would be great to have your feedback so I can improve things on the upcoming art
 Hope you have learned 1 thing or 2.
 
 Thanks for the visit, I really appreciate :)
+
+
+
+
+
+
+
+
+Hey Will, how are you?
+
+I've just started a Youtube channel to help the community, especially in this tough time where everyone is at home
+
+As you're a developer, I thought it would be in some way valuable to you or maybe you have that amazing friend who is just getting started in this amazing world 😄 
+
+Planning to explore Java, Ruby, JavaScript, Python, Go, TypeScript, Architecture in general, and all of their friends. From 10 to 15 videos a month, a good challenge 😅
+
+I've also created this site to release some courses in a more organized way. It's a draft but you can get an idea about the roadmap :)
+https://courses.alexgama.io/
+
+Any feedback is more than welcome =D
+
+https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw
+
+
+Opa Vinicius, tudo bem?
+
+Resolvi ajudar a comunidade através de Posts e Vídeos e como vc trabalha como Developer de repente pode ser útil pra vc ou para aquele amigão/amigona que quer começar 😄
+
+Vai rolar Java, Python, Go, Ruby, JavaScript, TypeScript, Arquitetura e todos os amiguinhos. De 10 a 15 vídeos por mês, oq parece um bom desafio 😅
+
+Tb criei esse site com um mini roadmap de cursos que vou liberar nos próximos meses. É só um rascunho mas dá pra ter uma ideia :)
+https://courses.alexgama.io/
+
+Qualquer feedback vai ser ótimo =D
+
+https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw
+
+
+
+Hey community!
+
+I've created a Youtube channel to help the community, planning to explore many exciting topics related to Java, Ruby, Python, TypeScript, Architecture, and much more.
+
+If you know someone who is just getting started would be great to have them on board :)
+https://www.youtube.com/watch?v=pfaecP3Wbjw
