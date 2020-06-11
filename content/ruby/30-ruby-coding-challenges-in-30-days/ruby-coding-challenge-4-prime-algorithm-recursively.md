@@ -166,6 +166,8 @@ To be honest, this is not an easy topic (at least for me) to explain in writing 
 
 Just a reminder. This is not about Ruby, it's all about concepts and logics and having some fun while solving these problems.
 
+{{< youtube cO9dNVzjz8c >}}
+
 Thanks for your visit, let's keep in touch and see you in the next challenge :)
 
 [Twitter](https://twitter.com/_alex_gama/)
