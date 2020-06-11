@@ -22,7 +22,9 @@ type: "post"
 
 Hey!
 
-Day 5 of 30 of this [Ruby Coding Challenge series](https://www.youtube.com/watch?v=pfaecP3Wbjw) where we'll explore the following problem:
+Day 5 of 30 of this [Ruby Coding Challenge series](https://www.youtube.com/watch?v=pfaecP3Wbjw) and this is the post version [of the Youtube video](https://www.youtube.com/watch?v=rB2kEIsGUFc).
+
+Today we'll explore the following problem:
 
 > Generate a Sum of Prime Numbers in a Given an Array
 
