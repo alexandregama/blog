@@ -146,9 +146,9 @@ array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 puts sum_prime_number(array)
 ```
 
-Notice that we ended up by having a more functional style, since this code is more declarative. I'm preparing a series to explore Functional Programming in JavaScript, Python, Java, and Ruby with some comparisons with Haskell. I hope to get you into this journey :)
+Notice that we ended up having a more functional style, since this code is more declarative. I'm preparing a series to explore Functional Programming in JavaScript, Python, Java, and Ruby with some comparisons with Haskell. I hope to get you into this journey :)
 
-I Hope that you've enjoyed 1 thing or maybe 2 and see you in the next coding challenge :)
+I hope that you've enjoyed 1 thing or maybe 2 and see you in the next coding challenge :)
 
 {{< youtube rB2kEIsGUFc >}}
 
