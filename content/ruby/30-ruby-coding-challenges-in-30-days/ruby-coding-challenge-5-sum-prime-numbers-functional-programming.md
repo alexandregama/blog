@@ -22,11 +22,11 @@ type: "post"
 
 Hey!
 
-Day 5 of 30 of this Ruby Coding Challenge series where we'll explore the following problem:
+Day 5 of 30 of this [Ruby Coding Challenge series](https://www.youtube.com/watch?v=pfaecP3Wbjw) where we'll explore the following problem:
 
 > Generate a Sum of Prime Numbers in a Given an Array
 
-The previous Ruby Coding Challenge was about counting how many items are prime in a given array. 
+The [previous Ruby Coding Challenge](https://www.youtube.com/watch?v=cO9dNVzjz8c) was about counting how many items are prime in a given array. 
 
 This one is quite similar and as usual, we'll:
 
