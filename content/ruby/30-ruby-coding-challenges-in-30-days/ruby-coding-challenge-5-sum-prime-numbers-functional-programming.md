@@ -4,7 +4,7 @@ date: 2020-06-11T13:49:23+06:00
 draft: false
 
 # post thumb
-image: "images/post/ruby/ruby-series/day-4-of-30-Ruby-Coding-Challenge-prime-algorithm-recursively.png"
+image: "images/post/ruby/ruby-series/day-5-of-30-Ruby-Coding-Challenge-prime-algorithm-functional-programming.png"
 
 # meta description
 description: "Day 5 of 30 - Ruby Coding Challenges in 30 Days. We're going to solve the problem of getting the sum of prime numbers a given array using functional programming with Ruby"
@@ -148,7 +148,7 @@ Notice that we ended up by having a more functional style, since this code is mo
 
 I Hope that you've enjoyed 1 thing or maybe 2 and see you in the next coding challenge :)
 
-{{< youtube cO9dNVzjz8c >}}
+{{< youtube rB2kEIsGUFc >}}
 
 Don't forget to keep in touch and say hi Alex
 
