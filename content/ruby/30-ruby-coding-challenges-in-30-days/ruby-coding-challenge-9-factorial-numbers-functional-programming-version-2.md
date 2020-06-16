@@ -1,7 +1,7 @@
 ---
 title: "Day 9 of 30 - Ruby Coding Challenge - Factorial Numbers - Final Functional Version"
 date: 2020-06-11T13:49:23+06:00
-draft: false
+draft: true
 
 # post thumb
 image: "images/post/ruby/ruby-series/day-9-of-30-Ruby-Coding-Challenge-factorial-ruby-way-2-functional-programming.png"
