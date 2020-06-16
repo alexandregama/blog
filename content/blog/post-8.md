@@ -230,7 +230,7 @@ https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw
 
 Opa Vinicius, tudo bem?
 
-Resolvi ajudar a comunidade através de Posts e Vídeos e como vc trabalha como Developer de repente pode ser útil pra vc ou para aquele amigão/amigona que quer começar 😄
+Resolvi ajudar a comunidade através de Posts e Vídeos e como vc trabalha na área de repente pode ser útil pra vc ou para aquele amigão/amigona 😄
 
 Vai rolar Java, Python, Go, Ruby, JavaScript, TypeScript, Arquitetura e todos os amiguinhos. De 10 a 15 vídeos por mês, oq parece um bom desafio 😅
 
