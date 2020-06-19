@@ -1,10 +1,10 @@
 ---
 title: "Day 9 of 30 - Ruby Coding Challenge - Factorial Numbers - Final Functional Version"
 date: 2020-06-11T13:49:23+06:00
-draft: true
+draft: false
 
 # post thumb
-image: "images/post/ruby/ruby-series/day-9-of-30-Ruby-Coding-Challenge-factorial-ruby-way-2-functional-programming.png"
+image: "images/post/ruby/ruby-series/day-9-of-30-Ruby-Coding-Challenge-factorial-final-ruby-way-functional-programming.png"
 
 # meta description
 description: "Day 9 of 30 - Ruby Coding Challenges in 30 Days. We're going to finish our journey of writing Factorials in Ruby by changing the previous algorithm a little bit more to reflect a more Ruby way to solve code"
@@ -110,7 +110,7 @@ There we go. Much simpler, which means, more readable and maintainable
 
 Thanks for the visit and see you in the next challenge :)
 
-{{< youtube rB2kEIsGUFc >}}
+{{< youtube szH91N0HZ_w >}}
 
 Don't forget to keep in touch and say hi Alex
 
@@ -118,3 +118,4 @@ Don't forget to keep in touch and say hi Alex
 [Youtube](https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw?view_as=subscriber/)
 [Instagram](https://www.instagram.com/_alex_gama)
 [Linkedin](https://www.linkedin.com/in/alexandregama/)
+[GitHub](https://github.com/alexandregama)
