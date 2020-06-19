@@ -4,7 +4,7 @@ date: 2020-06-19T13:49:23+06:00
 draft: false
 
 # post thumb
-image: "images/post/ruby/ruby-series/day-9-of-30-Ruby-Coding-Challenge-factorial-ruby-way-2-functional-programming.png"
+image: "images/post/ruby/ruby-series/day-10-of-30-Ruby-Coding-Challenge-recursive-factorial.png"
 
 # meta description
 description: "Day 10 of 30 - Ruby Coding Challenges in 30 Days. We're going solve the Factorial problem using recursion in Ruby"
