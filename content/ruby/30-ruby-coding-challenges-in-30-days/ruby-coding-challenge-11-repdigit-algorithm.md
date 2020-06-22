@@ -112,7 +112,7 @@ digit = array.first
 count = array.count { |item| item != digit }
 ```
 
-Perfect! If the **count** variable is different from zero, than we have a digit that is different from the first digit, which means that the number is not Repdigit
+Perfect! If the **count** variable is different from zero then we have a digit that is different from the first digit, which means that the number is not Repdigit
 
 The final solution would be:
 
