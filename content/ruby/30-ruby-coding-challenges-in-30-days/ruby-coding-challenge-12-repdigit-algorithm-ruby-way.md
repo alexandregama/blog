@@ -26,7 +26,7 @@ This is the blog post version of the [Youtube video](https://youtu.be/jhUmGRZikK
 
 This post will be really short because Ruby, fortunately, provides us a really good way to solve the [Repdigit Algorithm](https://youtu.be/gv3Qddjp5IY)
 
-## #1 Repdigit Algorithm Version 1
+## #1 Repdigit Algorithm Version 1 
 
 In this solution we're going to take the following steps:
 
