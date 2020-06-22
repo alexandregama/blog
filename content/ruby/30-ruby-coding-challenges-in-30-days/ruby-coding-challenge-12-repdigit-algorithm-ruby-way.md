@@ -116,7 +116,7 @@ That's it! I hope you liked it and see you in the [next challenge](https://cours
 
 {{< youtube jhUmGRZikKI >}}
 
-Don't forget to keep in touch and say hi Alex
+Don't forget to come by and say hi Alex
 
 [Twitter](https://twitter.com/_alex_gama/)
 [Youtube](https://www.youtube.com/channel/UCn09BXJXOCPLARsqNvxEFuw?view_as=subscriber/)
