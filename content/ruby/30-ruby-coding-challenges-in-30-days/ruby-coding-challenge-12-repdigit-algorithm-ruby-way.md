@@ -4,7 +4,7 @@ date: 2020-06-22T13:49:23+06:00
 draft: false
 
 # post thumb
-image: "images/post/ruby/ruby-series/day-11-of-30-Ruby-Coding-Challenge-repdigit-number-algorithm.png"
+image: "images/post/ruby/ruby-series/day-12-of-30-Ruby-Coding-Challenge-repdigit-number-ruby-way.png"
 
 # meta description
 description: "Day 12 of 30 - Ruby Coding Challenges in 30 Days. We're going solve the the Repdigit Algorithm in a more Ruby way, which validates if a digit is repeated in the whole number"
