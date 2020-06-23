@@ -123,3 +123,4 @@ Don't forget to come by and say hi Alex
 [Instagram](https://www.instagram.com/_alex_gama)
 [Linkedin](https://www.linkedin.com/in/alexandregama/)
 [GitHub](https://github.com/alexandregama)
+[Courses](https://courses.alexgama.io/)
