@@ -20,7 +20,7 @@ tags:
 type: "post"
 ---
 
-HHey friends!
+Hey friends!
 
 This is the blog post version of the [Youtube video](https://youtu.be/2zMUGAD6s6A) from the [30 Ruby Coding Challenges in 30 Days series](https://courses.alexgama.io/course?courseid=ruby-coding-challenges-course)
 
