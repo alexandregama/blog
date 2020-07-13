@@ -1,6 +1,6 @@
 ---
 title: "Day 18 of 30 - Ruby Coding Challenge - Finding the Missing Number Game"
-date: 2020-06-30T13:49:23+06:00
+date: 2020-07-06T13:49:23+06:00
 draft: false
 
 # post thumb
