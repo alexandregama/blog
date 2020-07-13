@@ -96,7 +96,7 @@ array = [1, 2, 3, 4, 6, 7, 8, 9, 10]
 find_missing_num(array)
 ```
 
-We break the execution once if find the desired number because we don't need to continuing looking for the number
+We break the execution once if find the desired number because we don't need to continue looking for the number
 
 **Step 3**
 
